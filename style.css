@@ -1,0 +1,15 @@
+.text {
+  color: black;
+  background-color: paleturquoise;
+}
+.jumbotron {
+  color: black;
+  background-color: paleturquoise;
+  font-weight: 300;
+  padding-bottom: 20pt;
+  padding-top: 10pt;
+  margin-left: 75pt;
+}
+.container h1 {
+    font-weight: bolder;
+}   
